@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 13 feb. 2022, 22:26:55
+    Author     : danny
+*/
+#barralateralizq {
+    position: absolute;
+    top: 16%;
+    left: 0;
+    height: 81%;
+    width: 20%;
+    background-color: gray;
+    padding: 10px;
+}
+
+#barralateralder {
+    position: absolute;
+    top: 16%;
+    right: 0;
+    height: 81%;
+    width: 20%;
+    background-color: gray;
+    padding: 10px;
+}
+
+#contenidocentral {
+    position: absolute;
+    top: 16%;
+    left: 20%;
+    right: 20%;
+    height: 81%;
+    width: 58%;
+    background-color: background;
+    padding: 10px;
+    overflow: auto;
+}
